@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace Fuck
+namespace Dwnldmanager
 {
     public partial class InfoLoader : Form
     {

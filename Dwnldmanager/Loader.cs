@@ -8,7 +8,7 @@ using System.Runtime.Remoting.Messaging;
 using System.Text;
 using System.Windows.Forms;
 
-namespace Fuck
+namespace Dwnldmanager
 {
     class Loader
     {

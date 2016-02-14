@@ -9,7 +9,7 @@ using System.Net;
 using System.Text;
 using System.Windows.Forms;
 
-namespace Fuck
+namespace Dwnldmanager
 {
     public partial class Form1 : Form
     {

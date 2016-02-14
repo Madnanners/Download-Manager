@@ -1,4 +1,4 @@
-﻿namespace Fuck
+﻿namespace Dwnldmanager
 {
     partial class InfoLoader
     {

@@ -7,7 +7,7 @@ using System.Net;
 using System.Text;
 using System.Windows.Forms;
 
-namespace Fuck
+namespace Dwnldmanager
 {
     //Объект HTTP - содержит всю нужную информацию для обработки файлов
     public class HttpObject : INotifyPropertyChanged
